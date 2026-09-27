@@ -1,6 +1,4 @@
-<div align="center">
 
-## About
 
 My broad interest is in **automatically building verification for AI across domains** — making AI reasoning in high-stakes settings machine-checkable, not just plausible.
 
